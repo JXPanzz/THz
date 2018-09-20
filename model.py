@@ -1,3 +1,6 @@
+## Some codes from https://github.com/yenchenlin/pix2pix-tensorflow
+
+
 from __future__ import division
 import os
 import time
