@@ -1,3 +1,5 @@
+## Some code from https://github.com/yenchenlin/pix2pix-tensorflow
+
 import argparse
 import os
 import scipy.misc
